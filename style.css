@@ -219,6 +219,10 @@ HEADER
     /* border-bottom: 4px solid var(--txcolr-1); */
     text-align: center;
 }
+#header img{
+    max-width: 100%;
+    height: auto;
+}
 /* @media screen and (max-width: 1209px){
     #header{
         width: 80%;
